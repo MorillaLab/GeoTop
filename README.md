@@ -1,5 +1,5 @@
 # GEOTOP 
-<p align="center">
+<p align="left">
   <a href="link_to_button_1">
     <img src="https://img.shields.io/badge/Button%201-Label-green" alt="Button 1">
   </a>
