@@ -1,7 +1,7 @@
 # GEOTOP 
 <p align="left">
   <a href="https://arxiv.org/abs/2311.16157">
-    <img src="https://img.shields.io/badge/Doi-blue" alt="">
+    <img src="https://img.shields.io/badge/Doi-blue" alt="2311.16157">
   </a>
 </p>
 
