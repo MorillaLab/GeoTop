@@ -1,6 +1,6 @@
 # GEOTOP 
 <p align="left">
-  <a href="link_to_button_1">
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
     <img src="https://img.shields.io/badge/License-CCBY-NC-ND4.0-green" alt="">
   </a>
   <a href="https://arxiv.org/abs/2311.16157">
