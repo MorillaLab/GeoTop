@@ -1,5 +1,7 @@
 # GEOTOP 
+<div align="left">
 [![Doi](https://img.shields.io/badge/Button%202-10.48550/arXiv.2311.16157-blue)](https://arxiv.org/abs/2311.16157)
+</div>
 
 Lipschitz-Killing Curvatures and Topological Data Analysis for Machine Learning Image Classification
 
