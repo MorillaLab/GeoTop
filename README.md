@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Button%201-Label-green" alt="Button 1">
   </a>
   <a href="https://arxiv.org/abs/2311.16157">
-    <img src="Doi" alt="Doi">
+    <img src="[Doi](https://img.shields.io/badge/Button%202-Label-blue)" alt="Doi">
   </a>
   <!-- Add more buttons as needed -->
 </p>
