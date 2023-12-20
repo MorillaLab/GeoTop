@@ -3,8 +3,8 @@
   <a href="link_to_button_1">
     <img src="https://img.shields.io/badge/Button%201-Label-green" alt="Button 1">
   </a>
-  <a href="https://arxiv.org/abs/2311.16157">
-    <img src="[Doi](https://img.shields.io/badge/Button%202-Label-blue)" alt="Doi">
+  <a href="[link_to_button_2](https://arxiv.org/abs/2311.16157)">
+    <img src="https://img.shields.io/badge/Button%202-Label-blue" alt="Button 2">
   </a>
   <!-- Add more buttons as needed -->
 </p>
