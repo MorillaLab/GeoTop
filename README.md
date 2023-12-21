@@ -1,7 +1,7 @@
 # GEOTOP 
 <p align="left">
   <a href="https://arxiv.org/abs/2311.16157">
-    <img src="https://img.shields.io/badge/License-arXiv-red" alt="">
+    <img src="https://img.shields.io/badge/arXiv-2311.16157-red" alt="">
   </a>
   <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
     <img src="https://img.shields.io/badge/License-CC_BY_NC_ND_4.0-green" alt="">
