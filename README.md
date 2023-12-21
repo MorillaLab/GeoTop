@@ -1,6 +1,8 @@
 # GEOTOP 
 <p align="left">
-  [![arXiv](https://img.shields.io/badge/arXiv-2203.14860-b31b1b.svg)](https://arxiv.org/abs/2203.14860)
+  <a href="https://arxiv.org/abs/2311.16157">
+    <img src="https://img.shields.io/badge/License-arXiv-red" alt="">
+  </a>
   <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
     <img src="https://img.shields.io/badge/License-CC_BY_NC_ND_4.0-green" alt="">
   </a>
