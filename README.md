@@ -9,4 +9,22 @@ In this study, we explore the application of Topological Data Analysis (TDA) and
 
 ![augmented_images](https://github.com/MorillaLab/MLITLKC/blob/main/Images/augmented_images.png)
 
+<!-- ============================================== -->
+<div align="left">
+  <h1 id="citation">🎈 Citation</h1>
+  <hr style="height: 3px; background: linear-gradient(90deg, #EF8E8D, #5755A3); border: none; border-radius: 3px;">
+</div>
 
+If you find GeoTop helpful, please cite us.
+
+```bibtex
+@misc{abaach2023geotopadvancingimageclassification,
+      title={GeoTop: Advancing Image Classification with Geometric-Topological Analysis}, 
+      author={Mariem Abaach and Ian Morilla},
+      year={2023},
+      eprint={2311.16157},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2311.16157}, 
+}
+```
