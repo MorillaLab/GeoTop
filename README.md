@@ -1,4 +1,4 @@
-# GEOTOP 
+# GeoTop 
 [![arXiv](https://img.shields.io/badge/arXiv-2311.16157-red)](https://arxiv.org/abs/2311.16157)
 [![License](https://img.shields.io/badge/License-CC_BY_NC_ND_4.0-green)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MorillaLab/TopoTransformers/)
