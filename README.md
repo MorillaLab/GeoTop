@@ -19,7 +19,7 @@ In this study, we explore the application of Topological Data Analysis (TDA) and
 <p>The framework processes biomedical images through parallel topological and geometric feature extraction pipelines that converge for classification.</p>
 
 <h3>Input & Preprocessing</h3>
-<p>Raw images (RGB or grayscale) undergo normalization and tumor-centric alignment, ensuring consistent feature extraction. The preprocessed images branch into two computational streams:</p>
+<p>Raw images (RGB or grayscale) undergo normalization and tumour-centric alignment, ensuring consistent feature extraction. The preprocessed images branch into two computational streams:</p>
 
 <h3>Topological Pipeline (Left)</h3>
 <ul>
