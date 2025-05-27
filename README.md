@@ -10,7 +10,7 @@ In this study, we explore the application of Topological Data Analysis (TDA) and
 ![augmented_images](https://github.com/MorillaLab/MLITLKC/blob/main/Images/augmented_images.png)
 
 <div align="center">
-  <h2>GeoTop Machine Learning Workflow</h2>
+  <h2>Machine Learning Workflow</h2>
 
   <img src="https://github.com/MorillaLab/MLITLKC/blob/main/Images/ML_workflow_GeoTop.png?raw=true" alt="workflow_GeoTop" width="50%"/>
   
