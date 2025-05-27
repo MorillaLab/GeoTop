@@ -11,7 +11,7 @@ In this study, we explore the application of Topological Data Analysis (TDA) and
 
 <!-- HTML for image resizing -->
 <div align="center">
-  <img src="https://github.com/MorillaLab/MLITLKC/blob/main/Images/ML_workflow_GeoTop.png?raw=true" alt="workflow_GeoTop" width="35%"/>
+  <img src="https://github.com/MorillaLab/MLITLKC/blob/main/Images/ML_workflow_GeoTop.png?raw=true" alt="workflow_GeoTop" width="40%"/>
 </div>
 
 <!-- ============================================== -->
