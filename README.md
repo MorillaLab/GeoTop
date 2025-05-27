@@ -12,7 +12,7 @@ In this study, we explore the application of Topological Data Analysis (TDA) and
 <div align="center">
   <h2>GeoTop Framework Workflow</h2>
   
-  <img src="https://github.com/MorillaLab/MLITLKC/blob/main/Images/ML_workflow_GeoTop.png?raw=true" alt="workflow_GeoTop" width="40%"/>
+  <img src="https://github.com/MorillaLab/MLITLKC/blob/main/Images/ML_workflow_GeoTop.png?raw=true" alt="workflow_GeoTop" width="800"/>
 
   <h3>Topological-Geometric Synergy in GeoTop</h3>
 </div>
