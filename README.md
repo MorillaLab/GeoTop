@@ -254,7 +254,6 @@ We welcome contributions — new geometric descriptors, faster filtration algori
 - **Code**: GNU General Public License v3.0 — see [`LICENSE`](LICENSE)
 - **Paper / figures**: CC BY-NC-ND 4.0
 
-> **Note:** The Colab badge in the original README linked to `TopoTransformers` (a different repo) — corrected here to point to `GeoTop.ipynb`.
 
 ---
 
