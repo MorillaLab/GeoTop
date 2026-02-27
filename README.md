@@ -58,7 +58,7 @@ Validated on skin lesion classification and plant peptide datasets (see Figures 
 Image (RGB or grayscale, 224×224)
           │
           ▼
-   Normalization & Tumour-centric Alignment
+   Normalisation & Biosystem-centric Alignment
           │
     ┌─────┴──────┐
     │            │
