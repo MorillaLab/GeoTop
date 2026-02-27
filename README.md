@@ -55,7 +55,7 @@ Validated on skin lesion classification and plant peptide datasets (see Figures 
 ## 🏗️ Pipeline
 
 ```
-Biomedical Image (RGB or grayscale, 224×224)
+Image (RGB or grayscale, 224×224)
           │
           ▼
    Normalization & Tumour-centric Alignment
@@ -140,11 +140,11 @@ GeoTop has been validated on and applied within:
 | Application | Dataset | Key result |
 |---|---|---|
 | Skin lesion classification | Biomedical images | 87% accuracy |
-| Plant peptide analysis | Protein embedding images | Used in [S2-PEPANALYST](https://github.com/MorillaLab/s2-PEPANALYST) |
+| Plant peptide analysis | Protein embedding images | Used in [S<sup>2</sup>-PEPANALYST](https://github.com/MorillaLab/s2-PEPANALYST) |
 | Protein function annotation | Embedding-as-image | Scale-invariant functional domain detection |
 | General biomedical multiomics | Various | Improved over single-modality baselines |
 
-GeoTop is also the accuracy assessment backbone of **[S2-PEPANALYST](https://github.com/MorillaLab/s2-PEPANALYST)** (Abaach *et al.*, 2023, cited in *Plant Biotechnology Journal*).
+GeoTop is also the accuracy assessment backbone of **[S<sup>2</sup>-PEPANALYST](https://github.com/MorillaLab/s2-PEPANALYST)** (Vomo-Donfack *et al.*, 2026, cited in *Plant Biotechnology Journal*).
 
 ---
 
@@ -238,7 +238,7 @@ If you use GeoTop in your research, please cite:
 GeoTop is a foundational component used across the lab's projects:
 
 - **[TaelCore](https://github.com/MorillaLab/Taelcore)** — uses GeoTop's topological accuracy assessment for dimensionality reduction
-- **[S2-PEPANALYST](https://github.com/MorillaLab/s2-PEPANALYST)** — uses GeoTop for plant signalling peptide classification
+- **[S<sup>2</sup>-PEPANALYST](https://github.com/MorillaLab/s2-PEPANALYST)** — uses GeoTop for plant signalling peptide classification
 - **[TopoAttention](https://github.com/MorillaLab/TopoAttention)** — topological features for lung transplant mortality prediction
 
 ---
