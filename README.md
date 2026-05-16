@@ -203,17 +203,17 @@ pytest tests/ -v --tb=short
 
 ## 📦 Python Package
 
-TaelCore is available on PyPI:
+GeoTop is available on PyPI:
 
 ```bash
-pip install taelcore
+pip install geotop
 ```
 
 | | |
 |---|---|
-| **Latest version** | 1.3.1 |
+| **Latest version** | 0.0.1 |
 | **PyPI page** | https://pypi.org/project/taelcore/ |
-| **Piwheels (ARM)** | https://www.piwheels.org/project/taelcore/ |
+| **Piwheels (ARM)** | https://www.piwheels.org/project/geotop/ |
 | **Python support** | 3.8, 3.9, 3.10, 3.11 |
 
 ---
