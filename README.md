@@ -124,7 +124,7 @@ This yields 64 descriptors: Betti numbers, persistence entropy, and diagram ampl
 
 This yields 120 descriptors: threshold profiles, first and second derivatives, and summary statistics.
 
-### Clinical Interpretability
+### Interpretability
 
 GeoTop features map directly to diagnostic criteria:
 - Perimeter → **margin irregularity**
