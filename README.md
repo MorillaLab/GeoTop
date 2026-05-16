@@ -153,6 +153,12 @@ GeoTop is also the accuracy assessment backbone of **[S<sup>2</sup>-PEPANALYST](
 ### Installation
 
 ```bash
+pip install geotop==0.0.1
+```
+
+Or install from source:
+
+```bash
 git clone https://github.com/MorillaLab/GeoTop.git
 cd GeoTop
 pip install -r requirements.txt
@@ -192,6 +198,23 @@ geom_feats = model.geometric_features(X_test_images)     # shape (N, 120)
 ```bash
 pytest tests/ -v --tb=short
 ```
+
+---
+
+## 📦 Python Package
+
+TaelCore is available on PyPI:
+
+```bash
+pip install taelcore
+```
+
+| | |
+|---|---|
+| **Latest version** | 1.3.1 |
+| **PyPI page** | https://pypi.org/project/taelcore/ |
+| **Piwheels (ARM)** | https://www.piwheels.org/project/taelcore/ |
+| **Python support** | 3.8, 3.9, 3.10, 3.11 |
 
 ---
 
