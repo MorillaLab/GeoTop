@@ -43,9 +43,9 @@ Biomedical image classification demands features that simultaneously capture *sh
 
 | Configuration | Accuracy | False Positive Rate | False Negative Rate |
 |---|---|---|---|
-| **GeoTop (TDA + LKC)** | **87%** | **↓ 15–18%** | **↓ 15–18%** |
-| TDA alone | 84% | baseline | baseline |
-| LKC alone | 82% | baseline | baseline |
+| **GeoTop (TDA + LKC)** | **87%/97%** | **↓ 15–18%** | **↓ 15–18%** |
+| TDA alone | 84%/88% | baseline | baseline |
+| LKC alone | 82%/86% | baseline | baseline |
 | Processing time (224×224px) | **< 0.5s** | — | — |
 
 Validated on skin lesion classification and plant peptide datasets (see Figures 2–5 in the [paper](https://arxiv.org/abs/2311.16157)).
