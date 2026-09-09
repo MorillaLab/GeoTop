@@ -19,7 +19,7 @@
 
 ---
 
-## 🔍 Overview
+## 🔍 Overview +  🏗️ Pipeline
 
 Biomedical image classification demands features that simultaneously capture *shape*, *connectivity*, and *multi-scale structure*. Standard deep learning methods treat images as pixel grids — missing the rich geometric and topological information encoded in tissue boundaries, lesion morphology, and cellular organisation.
 
@@ -52,60 +52,6 @@ Validated on skin lesion classification and plant peptide datasets (see Figures 
 
 ---
 
-## 🏗️ Pipeline
-
-```
-Image (RGB or grayscale, 224×224)
-          │
-          ▼
-   Normalisation & Biosystem-centric Alignment
-          │
-    ┌─────┴──────┐
-    │            │
-    ▼            ▼
-TOPOLOGICAL   GEOMETRIC
-  PATH          PATH
-    │            │
-    ▼            ▼
-Grayscale    Multi-threshold
-Conversion   Binarization
-    │        (200 thresholds)
-    ▼            │
-Superlevel       ▼
-Filtration   Component
-    │        Analysis
-    ▼            │
-Persistence      ▼
-Diagrams     LKC per component:
-(H₀, H₁)      • Area
-    │          • Perimeter
-    ▼          • Euler χ
-64 features      │
-(Betti nums,     ▼
- entropy,    120 features
- amplitudes) (threshold
-              profiles,
-              derivatives,
-              statistics)
-    │            │
-    └─────┬──────┘
-          │
-          ▼
-   Feature Concatenation
-     (184 features)
-          │
-          ▼
-   Mutual Information
-   Feature Selection
-     (top 100)
-          │
-          ▼
-   Random Forest
-   (500 trees)
-          │
-          ▼
-   Classification 🎯
-```
 
 ### Topological Path — TDA
 
