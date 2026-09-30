@@ -1,0 +1,8 @@
+,acc,auroc,Δacc vs ref [95% CI],p (paired bootstrap)
+TDA only | clean test images (n=633),"0.852 [0.823, 0.878]","0.929 [0.908, 0.947]",,
+TDA only | contaminated test images (n=27),"0.889 [0.778, 1.000]","0.983 [0.932, 1.000]",,
+LKC only | clean test images (n=633),"0.842 [0.814, 0.869]","0.925 [0.905, 0.943]",,
+LKC only | contaminated test images (n=27),"0.926 [0.815, 1.000]","1.000 [1.000, 1.000]",,
+Early: concat (current GeoTop) | clean test images (n=633),"0.872 [0.845, 0.899]","0.943 [0.924, 0.958]",,
+Early: concat (current GeoTop) | contaminated test images (n=27),"0.926 [0.815, 1.000]","1.000 [1.000, 1.000]",,
+"GeoTop retrained on de-duplicated train (n_train=2578), full test","0.873 [0.845, 0.897]","0.943 [0.925, 0.960]","-0.001 [-0.014, +0.011]",0.912
