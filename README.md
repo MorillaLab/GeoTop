@@ -32,7 +32,7 @@ Biomedical image classification demands features that simultaneously capture *sh
 > **Key insight:** TDA and LKC are *complementary*, not redundant. TDA captures topology (is the shape simply connected?), while LKC captures geometry (how irregular is the boundary?). Their fusion resolves the topological equivalence problem — two images with identical persistent homology can still have different geometric properties, and vice versa.
 
 <p align="center">
-  <img src="assets/ML_workflow_GeoTop.png" alt="graphical_abstract" width="820"/>
+  <img src="assets/graphical_abstract.png" alt="graphical_abstract" width="820"/>
   <br/>
   <em>GeoTop dual-pipeline: topological (left) and geometric (right) feature extraction converging for ensemble classification.</em>
 </p>
