@@ -43,7 +43,7 @@ Biomedical image classification demands features that simultaneously capture *sh
 
 | Configuration | Accuracy | False Positive Rate | False Negative Rate |
 |---|---|---|---|
-| **GeoTop (TDA + LKC)** | **87%/97%** | **↓ 15–18%** | **↓ 15–18%** |
+| **GeoTop (TDA + LKC)** | **87%/98%** | **↓ 15–18%** | **↓ 15–18%** |
 | TDA alone | 84%/88% | baseline | baseline |
 | LKC alone | 82%/86% | baseline | baseline |
 | Processing time (224×224px) | **< 0.5s** | — | — |
