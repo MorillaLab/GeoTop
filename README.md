@@ -229,5 +229,4 @@ We welcome contributions — new geometric descriptors, faster filtration algori
 <div align="center">
   Made with ❤️ by <a href="https://github.com/MorillaLab">MorillaLab</a>
   <br/>
-  <sub>Abaach · Morilla · arXiv:2311.16157</sub>
 </div>
