@@ -158,7 +158,7 @@ pip install geotop
 | | |
 |---|---|
 | **Latest version** | 0.0.1 |
-| **PyPI page** | https://pypi.org/project/taelcore/ |
+| **PyPI page** | https://pypi.org/project/geotop/ |
 | **Piwheels (ARM)** | https://www.piwheels.org/project/geotop/ |
 | **Python support** | 3.8, 3.9, 3.10, 3.11 |
 
